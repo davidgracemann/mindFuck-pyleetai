@@ -1,4 +1,6 @@
 # Challange :  100 hrs Vs Python X Leetcode X AI-Applied 
+<img width="750" height="500" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk5OWYzZmJsZWNsdmE5NGNleXVhY281b2JjYmNyd2FjcjIwa2czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FqpCVcIHXJuuCfNa4b/giphy.gif" />
+
 ---
 # <pyleetai 100:00:00 mindFuckathon Begins>
 
